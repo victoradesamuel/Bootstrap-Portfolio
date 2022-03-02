@@ -9,18 +9,13 @@
 - Bootstrap4
 
 
-## Live Demo 
-
-[Live Demo Link](https://victoradesamuel.github.io/Bootstrap-Portfolio/)
-
-
 
 ### Prerequisites
 - Good knowledge of Figma
 - Create Github repository
 - Have VSCode or choice text editor installed
 - Have Git installed
-- HTML/CSS Linters
+- knowledge of bootstrap
 
 ### Setup
 - Git clone - https://github.com/victoradesamuel/Bootstrap-Portfolio
