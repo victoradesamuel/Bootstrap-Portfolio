@@ -24,7 +24,6 @@
 
 ### Setup
 - Git clone - https://github.com/victoradesamuel/Bootstrap-Portfolio
-- HTML, CSS Linter configuration - https://github.com/microverseinc/linters-config/tree/master/html-css
 
 
 ### Deployment
@@ -42,13 +41,13 @@ Github
 
 👤 Melaku Mel
 
-- GitHub: [@victoradesamuel](https://github.com/victoradesamuel)
+- GitHub: [@melaku05](https://github.com/melaku05)
 - Twitter: [@son_ofzion](https://twitter.com/son_ofzion)
 - LinkedIn: [Victor-Adesamuel](https://linkedin.com/in/sonofzion)
 
 👤 Yarnnick Mulikuza
 
-- GitHub: [@victoradesamuel](https://github.com/victoradesamuel)
+- GitHub: [@zahinda](https://github.com/YannickZahinda)
 - Twitter: [@son_ofzion](https://twitter.com/son_ofzion)
 - LinkedIn: [Victor-Adesamuel](https://linkedin.com/in/sonofzion)
 
