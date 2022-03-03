@@ -37,14 +37,12 @@ Github
 👤 Melaku Mel
 
 - GitHub: [@melaku05](https://github.com/melaku05)
-- Twitter: [@son_ofzion](https://twitter.com/son_ofzion)
-- LinkedIn: [Victor-Adesamuel](https://linkedin.com/in/sonofzion)
 
 👤 Yarnnick Mulikuza
 
-- GitHub: [@zahinda](https://github.com/YannickZahinda)
-- Twitter: [@son_ofzion](https://twitter.com/son_ofzion)
-- LinkedIn: [Victor-Adesamuel](https://linkedin.com/in/sonofzion)
+- GitHub: [@YannickZahinda](https://github.com/YannickZahinda)
+- Twitter: [@Zahinday](https://twitter.com/son_ofzion)
+- LinkedIn: [YannickMULIKUZA](https://linkedin.com/in/YannickMulikuza)
 
 
 
